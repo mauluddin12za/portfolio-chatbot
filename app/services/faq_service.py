@@ -2,7 +2,8 @@ from rapidfuzz import fuzz
 import json
 import os
 
-FAQ_PATH = os.path.join(os.path.dirname(__file__), "../data/faq.json")
+APP_LANG = os.getenv("APP_LANG", "en")
+FAQ_PATH = os.path.join(os.path.dirname(__file__), f"../data/{APP_LANG}/faq.json")
 
 
 class FAQService:

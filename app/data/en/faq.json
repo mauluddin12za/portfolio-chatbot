@@ -1,0 +1,54 @@
+[
+  {
+    "question": "Who are you?",
+    "answer": "I'm Muhammad Hidayat Mauluddin, a Full-Stack Web Developer and Machine Learning enthusiast from Palembang, Indonesia."
+  },
+  {
+    "question": "Tech stack?",
+    "answer": "Next.js, React, Node.js, Express.js, MySQL, Python, TensorFlow, and Keras."
+  },
+  {
+    "question": "Experience?",
+    "answer": "I have experience building web applications, POS systems, company websites, and machine learning projects."
+  },
+  {
+    "question": "Education?",
+    "answer": "Master of Computer Science from Universitas Sriwijaya with a GPA of 3.92."
+  },
+  {
+    "question": "Web projects?",
+    "answer": "Attendance systems, POS applications, and company websites with admin dashboards."
+  },
+  {
+    "question": "ML projects?",
+    "answer": "Face restoration, heart disease prediction, and car price prediction models."
+  },
+  {
+    "question": "Frontend skills?",
+    "answer": "Next.js, React, HTML, CSS, JavaScript, and responsive UI development."
+  },
+  {
+    "question": "Backend skills?",
+    "answer": "Node.js, Express.js, REST API development, JWT authentication, and MySQL."
+  },
+  {
+    "question": "Database?",
+    "answer": "MySQL with experience in schema design and query optimization."
+  },
+  {
+    "question": "Machine learning?",
+    "answer": "Experience with CNN, U-Net, ANN, Random Forest, TensorFlow, and Keras."
+  },
+  {
+    "question": "Certifications?",
+    "answer": "AWS Cloud Practitioner, Dicoding Back-End & JavaScript, and Google UX Design."
+  },
+  {
+    "question": "Remote work?",
+    "answer": "Yes, I'm open to remote and on-site opportunities."
+  },
+  {
+    "question": "Contact?",
+    "answer": "Email: mauludindayat@gmail.com | LinkedIn: linkedin.com/in/hidayatmauluddin"
+  }
+]

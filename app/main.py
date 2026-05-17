@@ -24,7 +24,13 @@ app.add_middleware(
 # Routes
 app.include_router(chat_router, prefix="/api")
 
-knowledge_path = os.path.join(os.path.dirname(__file__), "./data/faq.json")
+APP_LANG = os.getenv("APP_LANG", "en")
+
+# build path dynamically
+knowledge_path = os.path.join(
+    os.path.dirname(__file__),
+    f"./data/{APP_LANG}/faq.json"
+)
 
 
 @app.get("/")
